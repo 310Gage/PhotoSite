@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+
+
+#myName {
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 5vw;
+    text-align: center;
+    letter-spacing: 4px;
+    margin: auto;
+
+}
+
+#contant {
+    color: black;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    font-size: 2vw;
+    /* margin: auto; */
+}
+
+
+body {
+    background-color: #eee;
+}
+
+img {
+    width:  22.5%;
+    margin: 1.25%;
+    float: left;
+    box-shadow: 1px 2px black;
+}
+
+
+.footer {
+    font-family: 'Ubuntu', sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(219, 219, 219);
+    color: black;
+    font-size: 22px;
+    border-top: 1px solid black;
+    word-spacing: 20px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 15px;
+}
